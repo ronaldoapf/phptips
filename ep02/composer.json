@@ -1,0 +1,28 @@
+{
+  "name": "ronaldoapf/phptips",
+  "description": "Conhecendo o Composer e Configurando IDE | PHP Tips #02",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ronaldo Alves",
+      "email": "ronaldo.alves.1997@gmail.com",
+      "role": "Developer",
+      "homepage": "https://github.com/ronaldoapf"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php "
+    ]
+  },
+  "require": {
+    "coffeecode/datalayer": "1.1.2"
+  }
+}
