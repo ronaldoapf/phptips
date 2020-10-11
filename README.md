@@ -2,7 +2,7 @@
 
 - [#001](https://www.youtube.com/watch?v=Zl1ZgfM9rSQ) ✔
 - [#002](https://www.youtube.com/watch?v=eD067TOeE-k) ✔
-- [#003](https://www.youtube.com/watch?v=VOYnS_1qA8w) ✖
+- [#003](https://www.youtube.com/watch?v=VOYnS_1qA8w) ✔
 - [#004](https://www.youtube.com/watch?v=_7yG_K8gFbI) ✖
 - [#005](https://www.youtube.com/watch?v=2Ei8cQyp1hY) ✖
 - [#006](https://www.youtube.com/watch?v=HyP3lDPzSkE) ✖
